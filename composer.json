@@ -1,0 +1,23 @@
+{
+    "name": "apollo/yii2-ajaxfilter",
+    "description": "Yii2 Ajax filter",
+    "version": "0.0.1",
+    "homepage": "https://github.com/vov4ik08/yii2-aajxfilter",
+    "keywords": ["yii2","ajax-filter"],
+    "license": "MIT",
+
+
+
+
+    "require": {
+        "php": ">=5.4",
+        "yiisoft/yii2": "*"
+
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Apollo\\": ""
+        }
+    }
+}
